@@ -3,7 +3,7 @@
 // @namespace    Jay Scripts
 // @match        https://www.torn.com/*
 // @match        https://pda.torn.com/*
-// @version      2.1.13
+// @version      2.1.14
 // @description  FIXED: API counter flickering on mobile - prevented multiple setInterval timers from running simultaneously
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
@@ -29,7 +29,7 @@
   // CONSTANTS
   // ============================================================================
 
-  const VERSION = '2.1.13-FINAL';
+  const VERSION = '2.1.14-FINAL';
 
   const GREEN_ARROW_UP  = "data:image/svg+xml;utf8,<svg width='20' height='20' xmlns='http://www.w3.org/2000/svg'><polygon points='10,3 19,17 1,17' fill='%232e7d32'/></svg>";
   const YELLOW_ARROW_UP = "data:image/svg+xml;utf8,<svg width='20' height='20' xmlns='http://www.w3.org/2000/svg'><polygon points='10,3 19,17 1,17' fill='%23f9a825'/></svg>";
