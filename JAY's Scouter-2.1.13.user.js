@@ -36,7 +36,7 @@
   const RED_ARROW_UP    = "data:image/svg+xml;utf8,<svg width='20' height='20' xmlns='http://www.w3.org/2000/svg'><polygon points='10,3 19,17 1,17' fill='%23c62828'/></svg>";
 
   const PLANE_ICON_URL = 'https://github.com/jaytechnos1/BP/blob/2d848848778341a168e5303285879da7c257999a/airport-xxl.png';
-  const HOSPITAL_ICON_URL = 'https://github.com/infodump01/LE-Scouter/raw/main/hospital.png';
+  const HOSPITAL_ICON_URL = 'https://github.com/jaytechnos1/BP/blob/9403f305974cfdc581f8c80c6cefb2fc40368737/hospital.png';
   const CIRCLE_ICON_URL = 'https://github.com/jaytechnos1/BP/blob/2d848848778341a168e5303285879da7c257999a/circle.png';
   const PILL_ICON_URL = 'https://github.com/jaytechnos1/BP/blob/2d848848778341a168e5303285879da7c257999a/pill-icon-2048x2048.png';
 
