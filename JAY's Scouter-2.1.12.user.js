@@ -35,10 +35,10 @@
   const YELLOW_ARROW_UP = "data:image/svg+xml;utf8,<svg width='20' height='20' xmlns='http://www.w3.org/2000/svg'><polygon points='10,3 19,17 1,17' fill='%23f9a825'/></svg>";
   const RED_ARROW_UP    = "data:image/svg+xml;utf8,<svg width='20' height='20' xmlns='http://www.w3.org/2000/svg'><polygon points='10,3 19,17 1,17' fill='%23c62828'/></svg>";
 
-  const PLANE_ICON_URL = 'https://raw.githubusercontent.com/infodump01/LE-Scouter/main/airport-xxl.png';
+  const PLANE_ICON_URL = 'https://github.com/jaytechnos1/BP/blob/2d848848778341a168e5303285879da7c257999a/airport-xxl.png';
   const HOSPITAL_ICON_URL = 'https://github.com/infodump01/LE-Scouter/raw/main/hospital.png';
-  const CIRCLE_ICON_URL = 'https://github.com/infodump01/LE-Scouter/raw/main/circle.png';
-  const PILL_ICON_URL = 'https://raw.githubusercontent.com/infodump01/LE-Scouter/main/pill-icon-2048x2048.png';
+  const CIRCLE_ICON_URL = 'https://github.com/jaytechnos1/BP/blob/2d848848778341a168e5303285879da7c257999a/circle.png';
+  const PILL_ICON_URL = 'https://github.com/jaytechnos1/BP/blob/2d848848778341a168e5303285879da7c257999a/pill-icon-2048x2048.png';
 
   const API_MAX_ACTIVE = 3;
   const API_MIN_DELAY = 200;
