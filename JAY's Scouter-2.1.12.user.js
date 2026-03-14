@@ -11,6 +11,8 @@
 // @grant        GM_getValue
 // @grant        GM_deleteValue
 // @connect      api.torn.com
+// @downloadURL https://github.com/jaytechnos1/BP/raw/refs/heads/main/JAY's%20Scouter-2.1.12.user.js
+// @updateURL https://github.com/jaytechnos1/BP/raw/refs/heads/main/JAY's%20Scouter-2.1.12.user.js
 // ==/UserScript==
 
 
